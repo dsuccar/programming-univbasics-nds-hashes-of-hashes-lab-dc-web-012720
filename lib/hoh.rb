@@ -42,7 +42,8 @@ def naming_system
           }
         }
       }
-    end
+    }
+  }
 
 
   # Remember:
